@@ -1,0 +1,22 @@
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+.img{
+    display: flex;
+    align-items: center;
+   margin-left: 60px;
+}
+.img1{
+    margin-left: 20px;
+}
+.btn{
+    height: 50px;
+    width: 240px;
+    background-color: black;
+    color: white;
+    margin-left: 70px;
+    margin-top: 40px;
+}
